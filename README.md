@@ -16,3 +16,7 @@ This project aims to build a machine learning model to identify inactive compoun
 - Python
 - Pandas, Scikit-learn
 - RDKit
+
+## Code availability
+The full analysis was conducted using Google Colab.
+Representative notebooks will be added for demonstration purposes.
